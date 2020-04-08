@@ -160,7 +160,7 @@ include_graphics("img/reddit-example.jpg")
 include_graphics("img/reddit-logo.png")
 ```
 
-### Teaching subreddits
+### Teaching-related subreddits
 
 --
 
